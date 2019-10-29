@@ -1,1 +1,1 @@
-
+The operating system also estabishes a user interface. This provides the screen layout and visual cues users are accustomed to seeing in their system. The operating system also provides services for applications software. 
