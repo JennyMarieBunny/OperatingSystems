@@ -1,2 +1,3 @@
+An operating system has several functions. One function is to manage the computer's resources. Resources can include the central processing unit or CPU, managing the memory, managing the disk drives and managing printers.
 The operating system also estabishes a user interface. This provides the screen layout and visual cues users are accustomed to seeing in their system. The operating system also provides services for applications software. 
 The operating system can be said to "talk" to the computer's applications. It provides communication from the computer's hardware to its software. Much of the work of the operating system happens "behind the scenes" and goes unnoticed by users.
